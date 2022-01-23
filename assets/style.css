@@ -7,10 +7,13 @@ body{
 h1{
     font-size: 45px;
 }
+h2{
+    font-size: 35px;
+}
 .header-bg{
     background: #FFF9F4;
 }
-.font-bebas{
+h1, h2{
     font-family: 'Bebas Neue', cursive;
 }
 .font-roboto{
