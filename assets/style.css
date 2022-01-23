@@ -23,8 +23,11 @@ h4{
 .header-bg{
     background: #FFF9F4;
 }
-h1, h2, h3{
+h1, h2, h3, ul li a{
     font-family: 'Bebas Neue', cursive;
+}
+ul li a {
+    font-size: 20px;
 }
 .font-roboto{
     font-family: 'Roboto', sans-serif;
